@@ -5,3 +5,20 @@ body {
 code {
   background-color: lightgrey;
 }
+
+blockquote {
+  font-style: italic; font-size: 20px;
+}
+
+span {
+  font-style: normal; font-size: 24px; font-weight: bold;
+color: #ff0000;
+}
+
+header {
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+}
