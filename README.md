@@ -1,1 +1,1 @@
-this is a sample site slightly better that the first i published
+this is a sample site slightly better than the first I published
